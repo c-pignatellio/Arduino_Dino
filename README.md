@@ -13,3 +13,11 @@ O código foi baseado em um comum retirado do site oficial do Arduino e aprimora
 
 Link do projeto de inspiração (posso tirar de for o caso): https://projecthub.arduino.cc/ultramegabombasticfuze/chrome-dino-game-b10afe  
 Link do projeto no Wokwi (de autoria própria): https://wokwi.com/projects/467812653743745025  
+
+##Lista de componentes
+| Componente | Preço |
+|-----------|--------|
+| Arduíno Uno | |
+| Botão 6x6x5mm | |
+| Display OLED 0.96 I2C | |
+
