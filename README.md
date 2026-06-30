@@ -17,7 +17,7 @@ Link do projeto no Wokwi (de autoria própria): https://wokwi.com/projects/46781
 ## Lista de componentes
 | Componente | Preço |
 |-----------|--------|
-| Arduíno Uno | |
-| Botão 6x6x5mm | 1,00 |
-| Display OLED 0.96 I2C | 34,00 |
+| Arduíno Uno |  |
+| Botão 6x6x5mm | R$1,00 |
+| Display OLED 0.96 I2C | R$34,00 |
 
