@@ -3,7 +3,7 @@ Eletrônica para Computação - 2026.1
 | Alunos | Número USP|
 |--------|------------|
 | Cecília Pignatelli de Oliveira | 17884078 |
-| Pedro Henrique  |   |
+| Pedro Henrique Maciel Araújo  | 17872210  |
 | Laís  |   |
 
 ## Descrição do projeto
